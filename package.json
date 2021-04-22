@@ -1,6 +1,6 @@
 {
   "name": "@naterkane/gridjs-react-17",
-  "version": "3.4.0",
+  "version": "3.4.1",
   "description": "React component for Grid.js",
   "main": "dist/gridjs.production.min.js",
   "module": "dist/gridjs.production.es.min.js",
